@@ -158,4 +158,6 @@ for(let i=0; i<pMaisVendidos.length; i++){
 
 console.log(`\nProduto mais lucrativo: ${pMaisVendidos[indice].nome} com R$${pMaisVendidos[indice].lucro} em vendas.`)
 
+
 console.log('Meu primeiro commit')
+console.log('Pull do github')
